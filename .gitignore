@@ -1,0 +1,30 @@
+# planning/processflow.drawio
+
+# api
+wayfarer-api/.env
+wayfarer-api/node_modules
+
+# react
+# dependencies
+wayfarer-react/node_modules
+wayfarer-react/.pnp
+wayfarer-react/.pnp.js
+
+# testing
+wayfarer-react/coverage
+
+# production
+wayfarer-react/build
+
+# misc
+wayfarer-react/.DS_Store
+wayfarer-react/.env.local
+wayfarer-react/.env.development.local
+wayfarer-react/.env.test.local
+wayfarer-react/.env.production.local
+
+wayfarer-react/npm-debug.log*
+wayfarer-react/yarn-debug.log*
+wayfarer-react/yarn-error.log*
+
+api-deploy
